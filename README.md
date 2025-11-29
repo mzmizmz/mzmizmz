@@ -6,7 +6,7 @@ I'm Miz
 - 🌱 現在学習中: React, TypeScript, Javascript
 - 👨‍💻 直近の目標: reactとjsの理解。
 - 📝 定期的に TIL を更新しています
-- 🔗 SNS やブログなどのリンクから繋がりましょう！
+- 🔗 X(Twitter)もやってます。
 
 ## 🛠️ Skills
 
