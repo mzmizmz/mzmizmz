@@ -16,13 +16,13 @@ I'm Miz
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-wordpress?style=flat&logo=wordpress&logoColor=white)
 
-<!--
+<!-- -->
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mzmizmz&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mzmizmz&layout=compact)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mzmizmz&theme=radical)
--->
+
 
 ---
 
